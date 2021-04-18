@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">whichOneIsLarger</string>
+    <string name="which_game_txt">Which One Is Larger</string>
+    <string name="speed_game_txt">Speed Match</string>
+    <string name="start_which_game_txt">Let\'s find larger number</string>
+    <string name="start_speed_game_txt">Let\'s test your speed</string>
+    <string name="ranking">Ranklist</string>
+    <string name="user_input_hint">enter your username here</string>
+    <string name="confirm">confirm</string>
+    <string name="equal">equal</string>
+    <string name="remain_time">Remaining time: %d seconds</string>
+    <string name="user_point">Your points: %d</string>
+    <string name="shape_only">shape</string>
+    <string name="color_only">color</string>
+    <string name="shape_and_color">both</string>
+    <string name="neither">non</string>
+    <string name="speed_final_score">Your final score is: %d</string>
+</resources>
